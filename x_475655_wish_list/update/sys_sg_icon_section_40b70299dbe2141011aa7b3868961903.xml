@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-09 20:51:49</sys_created_on>
+        <sys_id>40b70299dbe2141011aa7b3868961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Future</sys_name>
+        <sys_package display_value="Wish List" source="x_475655_wish_list">5737b154db6a501011aa7b386896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">5737b154db6a501011aa7b386896197b</sys_scope>
+        <sys_update_name>sys_sg_icon_section_40b70299dbe2141011aa7b3868961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-09 20:51:49</sys_updated_on>
+        <table/>
+        <title>Future</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>
